@@ -8,7 +8,7 @@ Hi! My name is MacKenzie Harnett, and I am an incoming postdoctoral fellow at MI
 
 I received my **B.S. in Mechanical Engineering** from **Cornell University** in 2021, and I received my **Ph.D. in Mechanical Engineering** from **Texas A&M University** in 2026. Feel free to download my CV [here]({{ '/assets/pdf/cv.pdf' | relative_url }}).
 
-My recent work is within the haptics space, specifically with regards to how we interpret and generate tactile graphics across a range of different platforms and different tactile materials.  
+My recent work is within the haptics space, specifically with regards to how we interpret and generate tactile graphics across a range of different platforms and different materials.  
 
 Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email (see ribbon at the bottom of the page). 
 
