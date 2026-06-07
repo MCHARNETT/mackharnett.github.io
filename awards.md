@@ -3,7 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-Below are a list of some awards I have received throughout my academic career. If you are a current student and are applying to similar awards, I am happy to provide advice and feedback if time permits. 
+Below is a list of some awards I have received throughout my academic career. If you are a current student and are applying to similar awards, I am happy to provide advice and feedback if time permits. 
 
 #While at Texas A&M University:
 
