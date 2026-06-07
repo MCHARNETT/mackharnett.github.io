@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I enjoy teaching and sometimes I think that I might be good at it. Here are a list of classes that I've taught for--in a Teaching Assistant role--in (mostly) reverse chronological order. 
+I enjoy teaching and, occasionally, I think that I might be good at it. Here are a list of classes that I've taught for--in a Teaching Assistant role--in (mostly) reverse chronological order. 
 
 <span style="color:green">While at Texas A&M University:</span>
 
