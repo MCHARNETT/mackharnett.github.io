@@ -10,7 +10,7 @@ I received my **B.S. in Mechanical Engineering** from **Cornell University** in 
 
 My recent work is within the haptics space, specifically with regards to how we interpret and generate tactile graphics across a range of different platforms and different materials.  
 
-Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email (see ribbon at the bottom of the page). 
+Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email: harnettmackenzie \[at\] gmail \[dot\] com. 
 
 
 <img src="/images/hej.png" alt="Hello!" style="float: right; margin: 0 0 1em 1em;">
