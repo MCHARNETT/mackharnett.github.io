@@ -3,9 +3,9 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-Below are a list of some awards I have received throughout my academic career. If you are a student and are applying to similar awards, I am happy to provide advice and feedback if time permits. 
+Below are a list of some awards I have received throughout my academic career. If you are a current student and are applying to similar awards, I am happy to provide advice and feedback if time permits. 
 
-#While at Texas A&M University
+#While at Texas A&M University:
 
 **Graduate Summer Research Grant**, TAMU department of Mechanical Engineering - *(2025)*
 
@@ -15,7 +15,7 @@ Below are a list of some awards I have received throughout my academic career. I
 
 **Byron Anderson '54 Fellowship**, TAMU Department of Mechanical Engineering - *(2021)*
 
-#While at Cornell University
+#While at Cornell University:
 
 **ELI Undergraduate Research Award**, Cornell University College of Engineering - *(2021)*
 
