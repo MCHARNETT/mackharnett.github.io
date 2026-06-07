@@ -7,19 +7,19 @@ I enjoy teaching and sometimes I think that I might be good at it. Here are a li
 
 <span style="color:green">While at Texas A&M University:</span>
 
-MEEN 364: Dynamic Systems and Controls Lab
+**MEEN 364:** Dynamic Systems and Controls Lab
 
-MEEN 363: Dynamics and Vibrations
+**MEEN 363:** Dynamics and Vibrations
 
-MEEN 260: Mechanical Measurements
+**MEEN 260:** Mechanical Measurements
 
 <span style="color:green">While at Cornell University:</span>
 
-MAE 3780: Mechatronics
+**MAE 3780:** Mechatronics
 
-MAE 4900: Intro to Machining
+**MAE 4900:** Intro to Machining
 
-MAE 2250: Mechanical Synthesis
+**MAE 2250:** Mechanical Synthesis
 
 <span style="color:green">While at Milton High School:</span>
 
