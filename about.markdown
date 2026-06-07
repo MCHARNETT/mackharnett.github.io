@@ -10,6 +10,6 @@ I received my **B.S. in Mechanical Engineering from Cornell University** in 2021
 
 Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email (see ribbon at the bottom of the page). 
 
-<p style="text-align: right;">
+<p align="right">
   <img src="images/hej.png" alt="Hello!">
 </p>
