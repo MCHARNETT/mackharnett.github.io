@@ -21,7 +21,7 @@
 title: Mack Harnett
 email: harnettmackenzie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is a means to document past and present works by Dr. MacKenzie Harnett.
+  This website is a means to document past and present works that involve Dr. MacKenzie Harnett in some way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mcharnett.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
