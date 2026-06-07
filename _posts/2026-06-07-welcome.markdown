@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Establishing my Github pages website"
+date:   2026-06-07 14:32:58 -0500
+categories: jwebsite maintenance
+---
+
+While expected, my academic license with Adobe was terminated upon graduation from TAMU. Less expected was that my portfolio was caught in the crossfire, and all its content lost to the void. I wonder if anyone might have preserved it on the wayback machine, or something adjacent to that? Regardless of whether anything might be recoverable, I will begin the slow process of populating this website with content. Please be patient with me as I do so. 
