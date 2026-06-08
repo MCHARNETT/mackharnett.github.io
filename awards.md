@@ -27,7 +27,7 @@ Below is a list of some awards I have received throughout my academic career. If
 
 **Finalist, Make-a-thon**, Cornell University - *(2020)*
 
-**First Place Award, Cornell Mechatronics Robotics Competition**, Cornell University Department of Mechanical Engineering - *(2019)* <br?>
+**First Place Award, Cornell Mechatronics Robotics Competition**, Cornell University Department of Mechanical Engineering - *(2019)* <br>
 [Link to Media.](https://www.ithaca.com/news/ithaca/video-a-battle-of-wits-and-robotics-at-cornell/article_76f6a96c-1c56-11ea-80f5-cb09303bf4e9.html)
 
 **Finalist, MAE 2250 Best Original Product Design**, Cornell Univeristy Department of Mechanical Engineering - *(2019)*
