@@ -12,21 +12,4 @@ My recent research interests are well embedded within the haptics space, specifi
 
 Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email:<span style="color:green"> harnettmackenzie \[at\] gmail \[dot\] com. </span>
 
-<style>
-@keyframes shake {
-  0%, 100% { transform: translateX(0); }
-  20%, 60% { transform: translateX(-5px); }
-  40%, 80% { transform: translateX(5px); }
-}
-
-#hej-img:hover {
-  animation: shake 0.5s;
-}
-</style>
-
-<img
-  id="hej-img"
-  src="/images/hej.png"
-  alt="Hello!"
-  style="float:right; margin:0 0 1em 1em; cursor:pointer;"
->
+<img src="/images/hej.png" alt="Hello!" style="float:right;" onclick="alert('clicked')">
