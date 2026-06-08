@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Below is a collection of both published and in-progress research works that have included me as an author (images pending). I have also been known to review papers for different venues, including ACM CHI, IEEE Haptics Symposium, and Displays. 
+Below is a collection of both published and in-progress research works that have included me as an author (images pending). Most of these are also reported on my [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=mackenzie+harnett&btnG=). 
 
 <span style="color:green">JOURNAL ARTICLES</span>
 
@@ -42,3 +42,6 @@ In this paper, we investigated different rendering strategies and platforms for 
 **Evaluation of Dynamic Rendering Strategies for Supporting Recognition of Raised Pin Shape Geometries** - *(202X)*<br>
 This project is an extension of the work outlined in the 'Conference Proceedings' section. Here, we investigated the utility of tactile animations for guiding user behavior for the purposes of shape identification. This work is currently *in-progress*, with plans to submit for publication in early Fall 2026. 
 
+<span style="color:green">REVIEWS</span>
+
+I have reviewed papers for different venues, including ACM CHI, IEEE Haptics Symposium, and Displays. 
