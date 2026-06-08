@@ -6,7 +6,7 @@ permalink: /awards/
 Below is a list of some awards I have received throughout my academic career. If you are a current student and are applying to similar awards, I am happy to provide advice and feedback if time permits. 
 
 <span style="color:green">While at Texas A&M University:</span>
-
+**Postdoctoral Fellowship**, MIT Schwarzman College of Computing - *(2026)*
 **Graduate Summer Research Grant**, TAMU department of Mechanical Engineering - *(2025)*
 
 **Graduate Student Travel Award**, TAMU department of Mechanical Engineering - *(2023, 2026)*
