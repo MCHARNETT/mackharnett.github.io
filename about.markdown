@@ -13,33 +13,16 @@ My recent research interests are well embedded within the haptics space, specifi
 Anyone interested in knowing more about my work or collaborating with me should reach out via my personal email:<span style="color:green"> harnettmackenzie \[at\] gmail \[dot\] com. </span>
 
 <img
-  id="hej-img"
   src="/images/hej.png"
   alt="Hello!"
-  style="float: right; margin: 0 0 1em 1em; cursor: pointer;"
+  onclick="this.style.animation='none';this.offsetHeight;this.style.animation='shake 0.5s';"
+  style="float:right;margin:0 0 1em 1em;cursor:pointer;"
 >
 
 <style>
 @keyframes shake {
-  0%, 100% { transform: translateX(0); }
-  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
-  20%, 40%, 60%, 80% { transform: translateX(5px); }
-}
-
-.shake {
-  animation: shake 0.5s;
+  0%,100%{transform:translateX(0)}
+  25%{transform:translateX(-5px)}
+  75%{transform:translateX(5px)}
 }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const img = document.getElementById('hej-img');
-  if (!img) return;
-
-  img.addEventListener('click', function () {
-    this.classList.remove('shake');
-    void this.offsetWidth; // restart animation
-    this.classList.add('shake');
-  });
-});
-</script>
