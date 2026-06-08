@@ -21,7 +21,7 @@ Below is a list of some awards I have received throughout my academic career. If
 
 **ELI Undergraduate Research Award**, Cornell University College of Engineering - *(2021)*
 
-**Dean's List**, Conrell University College of Engineering - *(2020-2021)*
+**Dean's List**, Cornell University College of Engineering - *(2020-2021)*
 
 **Moskowitz Scholarship**, Cornell Unversity - *(2019-2021)*
 
