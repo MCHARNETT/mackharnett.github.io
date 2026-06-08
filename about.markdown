@@ -30,5 +30,28 @@ Anyone interested in knowing more about my work or collaborating with me should 
   src="/images/hej.png"
   alt="Hello!"
   style="float:right; margin:0 0 1em 1em; cursor:pointer;"
-  onclick="this.classList.remove('shake'); void this.offsetWidth; this.classList.add('shake');"
 />
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  let clicks = 0;
+  const hej = document.getElementById("hej-img");
+
+  hej.addEventListener("click", () => {
+    // restart shake animation
+    hej.classList.remove("shake");
+    void hej.offsetWidth;
+    hej.classList.add("shake");
+
+    clicks++;
+
+    if (clicks === 9) {
+      alert("The DJUNGELSKOG is becoming agitated...");
+    }
+
+    if (clicks >= 10) {
+      window.location.href = "/game/game.html";
+    }
+  });
+});
+</script>
