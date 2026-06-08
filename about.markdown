@@ -55,3 +55,26 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+
+<div style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+">
+  <iframe
+    src="/game/"
+    style="
+      width: 100%;
+      height: 100%;
+      border: none;
+    "
+    allowfullscreen>
+  </iframe>
+</div>
