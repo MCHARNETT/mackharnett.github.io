@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Below is a collection of both published and in-progress research works that have included me as an author (images pending). Most of these are also reported on my [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=mackenzie+harnett&btnG=). 
+Below is a collection of both published and in-progress research works that have included me as an author (images pending). Most of these are also reported on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=iJWSFoEAAAAJ). 
 
 <span style="color:green">JOURNAL ARTICLES</span>
 
