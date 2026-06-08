@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Below is a collection of both published and in-progress research works that have included me as an author (images pending). 
+Below is a collection of both published and in-progress research works that have included me as an author (images pending). I have also been known to review papers for different venues, including ACM CHI, IEEE Haptics Symposium, and Displays. 
 
 <span style="color:green">JOURNAL ARTICLES</span>
 
